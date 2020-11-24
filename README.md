@@ -12,7 +12,7 @@
   <img align="left" alt="Arifin N | Instagram" width="27px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-</br>
+<br />
 
 - 👨🏻‍💻 I’m currently working on something cool
 - 🚀 I’m currently learning C#
