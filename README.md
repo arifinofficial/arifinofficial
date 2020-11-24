@@ -14,7 +14,6 @@
 
 <br/>
 <br/>
-<br/>
 
 - 👨🏻‍💻 I’m currently working on something cool
 - 🚀 I’m currently learning C#
