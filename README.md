@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px">
+<a href="https://twitter.com/arifinofficial">
+  <img align="left" alt="Arifin N | Twitter" width="27px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/arifinofficial">
+  <img align="left" alt="Arifin N | LinkdeIn" width="27px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://t.me/arifinofficial">
+  <img align="left" alt="Arifin N | Telegram" width="27px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.instagram.com/arifinofficial">
+  <img align="left" alt="Arifin N | Instagram" width="27px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
 - 👨🏻‍💻 I’m currently working on something cool
 - 🚀 I’m currently learning C#
